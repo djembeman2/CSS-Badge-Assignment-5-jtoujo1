@@ -152,4 +152,7 @@ footer {
   text-align: center;
 }
 
-
+footer {
+  <p class="outset"
+  >An outset border.</p>
+}
